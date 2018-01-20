@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
+		"CodeFormatter",
+		"CoolFormat",
+		"Dayle Rees Color Schemes",
+		"ESLint",
+		"GraphQL",
+		"Handlebars",
+		"Jade",
+		"JsPrettier",
+		"Logstash Syntax Highlighting",
+		"Material Theme",
+		"nginx",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"React and React Router Snippets",
+		"React ES6 Snippets",
+		"ReactJS Snippets",
+		"Redux Snippets",
+		"Sass",
+		"Seti_UI"
+	]
+}

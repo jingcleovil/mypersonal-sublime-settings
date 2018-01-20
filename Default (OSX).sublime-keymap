@@ -1,0 +1,9 @@
+[
+	{ "keys": ["super+alt+l"], "command": "codeformatter_html_options" },
+	{ "keys": ["super+d"], "command": "duplicate_line" },
+	{ "keys": ["super+1"], "command": "toggle_side_bar" },
+	{ "keys": ["super+backspace"], "command": "run_macro_file" },
+	{ "keys": ["alt+super+g"], "command": "find_under" },
+	{ "keys": ["shift+alt+super+g"], "command": "find_under_prev" },
+	{ "keys": ["super+g"], "command": "find_all_under" }
+]
